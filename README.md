@@ -1,4 +1,4 @@
-# kfiglet
+# kfiglet: FIGlet of Kotlin.
 A FIGlet library of Kotlin version. Transfer ascii text into FIGlet text. An open-source project for fun and driven by ideas.
 
 # TODO
