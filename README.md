@@ -3,5 +3,5 @@ A FIGlet library of Kotlin version. Transfer ascii text into FIGlet text. An ope
 
 # TODO
 * Finish and test current project, and upload to maven as an open-source library of Kotlin FIGlet.
-* Provide community with an Intellij platform plugin which can generate ascii art text for developers based on current kotlin libary.
+* Provide community with an Intellij platform plugin which can generate ascii art text for developers based on current kotlin library.
 * FIGlet of Dart version.
