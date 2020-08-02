@@ -10,7 +10,7 @@ import java.util.regex.Pattern
  * @email <happychinapc@gmail.com>
  * @since 2020/8/1 16:09
  */
-class KFIGFontReader(val reader: Reader) {
+class KFIGFontReader(private val reader: Reader) {
 
     @Throws(IOException::class)
     fun readFont(): KFIGFont? {
